@@ -1,6 +1,6 @@
 Light_QuickMailAlert
 ===========
-2020-08-14
+2020-08-14 -> 2020-08-17
 
 
 
@@ -73,6 +73,10 @@ quick_mail_alert:
 History Log
 =============
 
+- 1.1.0 -- 2020-08-17
+
+    - add admin_notif template
+    
 - 1.0.0 -- 2020-08-14
 
     - initial commit
