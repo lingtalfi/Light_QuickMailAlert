@@ -1,6 +1,6 @@
 Light_QuickMailAlert
 ===========
-2020-08-14 -> 2021-03-09
+2020-08-14 -> 2021-03-15
 
 
 
@@ -77,6 +77,10 @@ quick_mail_alert:
 
 History Log
 =============
+
+- 1.1.5 -- 2021-03-15
+
+    - update planet to adapt Ling.Light:0.70.0
 
 - 1.1.4 -- 2021-03-09
 
