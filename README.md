@@ -78,6 +78,10 @@ quick_mail_alert:
 History Log
 =============
 
+- 1.1.6 -- 2021-05-10
+
+    - Fix assets missing.
+
 - 1.1.5 -- 2021-03-15
 
     - update planet to adapt Ling.Light:0.70.0
