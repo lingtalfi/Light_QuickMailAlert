@@ -4,7 +4,7 @@
 
 The LightQuickMailAlertService class
 ================
-2020-08-14 --> 2021-05-10
+2020-08-14 --> 2021-05-31
 
 
 
